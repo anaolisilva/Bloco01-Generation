@@ -13,8 +13,9 @@ public class Ex06 {
 	public static void main(String[] args) {
 		
 		Scanner in = new Scanner(System.in);
-		int x, soma = 0, cont = 0, media;
-		System.out.println("Programa média dos múltiplos de 3. O programa encerra quando você digita 0.");
+		int x, soma = 0, cont = 0;
+		double media;
+		System.out.println("Programa: média dos múltiplos de 3. O programa encerra quando você digita 0.");
 		do {
 			System.out.println("Digite um número: ");
 			x = in.nextInt();

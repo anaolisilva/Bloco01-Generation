@@ -8,7 +8,7 @@ public class Ex03 {
 	 *  04/06/21
 	 *  Enunciado: Solicitar a idade de várias pessoas e imprimir: Total de pessoas com menos de
 	21 anos. Total de pessoas com mais de 50 anos. O programa termina quando
-	idade for =-99.
+	idade for = -99.
 	 */
 	public static void main(String[] args) {
 		int idade = 0, menor21 = 0, maior50 = 0;
@@ -29,6 +29,6 @@ public class Ex03 {
 		in.close();
 		
 		System.out.println("Pessoas com menos de 21 anos: " + menor21);
-		System.out.println("Pessoas com mais de 21 anos: " + maior50);
+		System.out.println("Pessoas com mais de 50 anos: " + maior50);
 	}
 }
