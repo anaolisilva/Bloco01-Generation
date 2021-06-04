@@ -21,7 +21,7 @@ public class Ex04 {
 	 */
 	
 	public static void main(String[] args) {
-		int n = 1, idade, genero, temperamento, total = 7, calmos = 0, m_nervosas = 0, h_agressivos = 0, o_calmes = 0,
+		int n = 1, idade, genero, temperamento, total = 150, calmos = 0, m_nervosas = 0, h_agressivos = 0, o_calmes = 0,
 				nervose_maior_40 = 0, calmes_menor_18 = 0;
 		
 		Scanner in = new Scanner(System.in);
