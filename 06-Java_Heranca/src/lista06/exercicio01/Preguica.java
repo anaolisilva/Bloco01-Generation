@@ -1,6 +1,6 @@
 package lista06.exercicio01;
 
-public class Preguica extends Animal {
+public class Preguica extends Animal implements AnimalInterf {
 	
 	private boolean subirArvores = true;
 
@@ -12,6 +12,10 @@ public class Preguica extends Animal {
 	public void EmiteSom (String som) {
 		som = "ZzzzzzZzzzzz";
 		System.out.println(som);
+	}
+	
+	public void correr() {
+		System.out.println("Preguiça não corre...");
 	}
 
 	

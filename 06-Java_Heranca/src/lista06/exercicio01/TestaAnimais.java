@@ -6,5 +6,9 @@ public class TestaAnimais {
 		animal.EmiteSom("0");		
 
 	}
+	
+	public void correr (Animal animal) {
+		animal.correr();
+	}
 
 }

@@ -1,6 +1,6 @@
 package lista06.exercicio01;
 
-public class Cachorro extends Animal {
+public class Cachorro extends Animal implements AnimalInterf{
 	
 	private boolean correr = true;
 
@@ -21,6 +21,12 @@ public class Cachorro extends Animal {
 
 	public void setCorrer(boolean correr) {
 		this.correr = correr;
+	}
+
+
+	public void correr() {
+		System.out.println("Cachorro correndo...");
+		
 	}
 	
 

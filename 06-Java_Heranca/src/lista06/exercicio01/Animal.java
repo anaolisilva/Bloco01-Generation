@@ -1,6 +1,6 @@
 package lista06.exercicio01;
 
-public class Animal {
+public class Animal implements AnimalInterf {
 	
 	private String nome;
 	private int idade;
@@ -25,6 +25,9 @@ public class Animal {
 	}
 	public void setIdade(int idade) {
 		this.idade = idade;
+	}
+
+	public void correr() {		
 	}
 	
 	
