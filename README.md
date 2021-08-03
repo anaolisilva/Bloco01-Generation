@@ -15,7 +15,7 @@
 </div>
 	
 <div align="center">
-	<p><a href="#lista01">Lista 01 [Lógica]</a> | <a href="#lista02">Lista 02 [Condicionais]</a> | <a href="#lista03">Lista 03 [Repetição]</a> | <a href="#lista04">Lista 04 [Vetores/Matrizes]</a> | <a href="#lista05">Lista 05 [Intro à POO]</a></p>
+	<p><a href="#lista01">Lista 01 [Lógica]</a> || <a href="#lista02">Lista 02 [Condicionais]</a> || <a href="#lista03">Lista 03 [Repetição]</a> || <a href="#lista04">Lista 04 [Vetores/Matrizes]</a> || <br> <a href="#lista05">Lista 05 [Intro à POO]</a> || <a href="#lista06">Lista 06 [Herança]</a> || <a href="#lista07">Lista 07 [Lists]</a></p>
 </div>
 <br>
 <div>
@@ -199,8 +199,11 @@
     <h3 id="lista06">Lista 06 - Herança em Java</h3>
     <ul>
         <li>
-            <a
-                href="https://github.com/anaolisilva/Bloco01-Generation/tree/main/06-Java_Heranca/src/lista06/exercicio01">Exercício único</a> - "Aplique os conceitos de herança, utilizando superclasses, subclasses e interfaces, utilizando de exemplo a categoria: animais."
+            <p> <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/tree/main/06-Java_Heranca/src/lista06/exercicio01">Exercício único</a> - "Crie uma hierarquia de classes conforme abaixo com atributos e comportamentos segundo a tabela). Utilize os seus conhecimentos e distribua as características de forma que tudo o que for comum a todos os animais fique na classe Animal: </p>
+                <img align="center" width="500px" src="https://i.imgur.com/tzqtxz3.png" alt="Tabela explicando as classes animal, cachorro, cavalo e preguiça.">
+                <br>   
+                <p> Implemente um programa que crie os 3 tipos de animais definidos no exercício anterior e invoque o método que emite o som de cada um de forma polimórfica, isto é, independente do tipo de animal." </p> 
         </li>
     </ul>
 </div>
@@ -210,9 +213,13 @@
     <ul>
         <li>
             <a
-                href="https://github.com/anaolisilva/Bloco01-Generation/tree/main/07-Java_Lists/src/estoque">Exercício único</a> - "Simule um programa simples de estoque para uma loja."
+                href="https://github.com/anaolisilva/Bloco01-Generation/tree/main/07-Java_Lists/src/estoque">Exercício único</a> - "Crie uma um programa para trabalhar com estoque de uma loja, o programa deverá trabalhar com Collection do tipo List do Java para manipular os dados desse estoque, o programa deverá atender as seguintes funcionalidades:<br>
+                - Armazenar dados da List <br>
+                - Remover dados da list; <br>
+                - Atualizar dados da list. <br>
+                - Apresentar todos os dados da list."
         </li>
     </ul>
 </div>
 <hr>
-<h5>📗 Obrigada pela atenção! Qualquer dúvida, estou à disposição. 💻</h5>
+<h5>Obrigada pela atenção! Qualquer dúvida, estou à disposição.</h5>
