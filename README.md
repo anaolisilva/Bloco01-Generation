@@ -14,7 +14,7 @@
 	</table>
 </div>
 	
-<div align="right">
+<div align="center">
 	<p><a href="#lista01">Lista 01</a> | <a href="#lista02">Lista 02</a></p>
 </div>
 
@@ -109,4 +109,4 @@
         <ul>
 </div>
 			
-<div>[EM CONSTRUÇÃO</div>
+<div>[EM CONSTRUÇÃO]</div>
