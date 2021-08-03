@@ -94,8 +94,7 @@
         <li>
             <a
                 href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/02-Java_Condicionais/src/lista02/Ex03.java">Exercício
-                03</a> - "Desenvolva um sistema que leia a idade de um competidor e imprima a categoria de idade à qual
-            ela percente: <br>
+                03</a> - "Desenvolva um sistema que leia a idade de um competidor e imprima a categoria de idade à qual ela percente: <br>
             - Entre 10 e 14 anos: INFANTIL <br>
             - Entre 15 e 18: JUVENIL<br>
             - Maior de 18 anos: ADULTO"
@@ -103,8 +102,7 @@
         <li>
             <a
                 href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/02-Java_Condicionais/src/lista02/Ex04.java">Exercício
-                04</a> - "Faça um sistema que leia um número inteiro. Caso ele seja par, o programa deve imprimir sua
-            raiz quadrada. Caso ele seja ímpar, o programa deve imprimir o número elevado ao quadrado."
+                04</a> - "Faça um sistema que leia um número inteiro. Caso ele seja par, o programa deve imprimir sua raiz quadrada. Caso ele seja ímpar, o programa deve imprimir o número elevado ao quadrado."
         </li>
     </ul>
 </div>
@@ -126,7 +124,7 @@
         </li>
         <li>
             <a
-                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/03-Java_LacosRepeticao/src/lista03_LacosRepeticao/Ex04.java">Exercício 04</a> - "Uma empresa desenvolveu uma pesquisa para saber as características psicológicas dos indivíduos de uma região. Para tanto, a cada uma das pessoas era perguntado:  idade, sexo (1-feminino / 2-masculino / 3-Outros), e as opções (1, se a pessoa era calma; 2, se a pessoa era nervosa e 3, se a pessoa era agressiva). Pede-se para elaborar um sistema que permita ler os dados de 150 pessoas, calcule e mostre:
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/03-Java_LacosRepeticao/src/lista03_LacosRepeticao/Ex04.java">Exercício 04</a> - "Uma empresa desenvolveu uma pesquisa para saber as características psicológicas dos indivíduos de uma região. Para tanto, a cada uma das pessoas era perguntado:  idade, sexo (1-feminino / 2-masculino / 3-Outros), e as opções (1, se a pessoa era calma; 2, se a pessoa era nervosa e 3, se a pessoa era agressiva). Pede-se para elaborar um sistema que permita ler os dados de 150 pessoas, calcule e mostre: <br>
                 - o número de pessoas calmas; <br>
                 - o número de mulheres nervosas; <br>
                 - o número de homens agressivos; <br>
@@ -160,7 +158,7 @@
         </li>
         <li>
             <a
-                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/04-Java_VetoresMatrizes/src/lista04Matrizes/Ex02.java">Exercício 02</a> - "Faça um programa que receba 6 números inteiros e mostre: 
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/04-Java_VetoresMatrizes/src/lista04Matrizes/Ex02.java">Exercício 02</a> - "Faça um programa que receba 6 números inteiros e mostre: <br>
                 - Os números pares digitados; <br>  
                 - A soma dos números pares digitados; <br>
                 - Os números ímpares digitados; <br>
@@ -172,7 +170,7 @@
         </li>
         <li>
             <a
-                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/04-Java_VetoresMatrizes/src/lista04Matrizes/Ex04.java">Exercício 04</a> - "Faça um programa que leia duas matrizes 2 x 2 com valores reais. Ofereça ao usuário um menu de opções:
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/04-Java_VetoresMatrizes/src/lista04Matrizes/Ex04.java">Exercício 04</a> - "Faça um programa que leia duas matrizes 2 x 2 com valores reais. Ofereça ao usuário um menu de opções:<br>
                 (1) somar as duas matrizes <br>
                 (2) subtrair a primeira matriz da segunda <br>
                 (3) adicionar uma constante as duas matrizes <br>
