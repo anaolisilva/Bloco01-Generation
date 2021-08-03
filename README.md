@@ -194,3 +194,25 @@
         </li>
     </ul>
 </div>
+<hr>			
+<div>
+    <h3 id="lista06">Lista 06 - Herança em Java</h3>
+    <ul>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/tree/main/06-Java_Heranca/src/lista06/exercicio01">Exercício único</a> - "Aplique os conceitos de herança, utilizando superclasses, subclasses e interfaces, utilizando de exemplo a categoria: animais."
+        </li>
+    </ul>
+</div>
+<hr>			
+<div>
+    <h3 id="lista07">Lista 07 - Arrays e Lists</h3>
+    <ul>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/tree/main/07-Java_Lists/src/estoque">Exercício único</a> - "Simule um programa simples de estoque para uma loja."
+        </li>
+    </ul>
+</div>
+<hr>
+<h5>📗 Obrigada pela atenção! Qualquer dúvida, estou à disposição. 💻</h5>
