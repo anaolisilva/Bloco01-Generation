@@ -15,9 +15,9 @@
 </div>
 	
 <div align="center">
-	<p><a href="#lista01">Lista 01</a> | <a href="#lista02">Lista 02</a></p>
+	<p><a href="#lista01">Lista 01 [Lógica]</a> | <a href="#lista02">Lista 02 [Condicionais]</a> | <a href="#lista03">Lista 03 [Repetição]</a> | <a href="#lista04">Lista 04 [Vetores/Matrizes]</a> | <a href="#lista05">Lista 05 [Intro à POO]</a></p>
 </div>
-
+<br>
 <div>
     <h3 id="lista01">Lista 01 - Exercícios de programação sequencial</h3>
     <ul>
@@ -74,10 +74,10 @@
             distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que a percentagem do distribuidor seja
             de 28% e os impostos de 45%, escrever um sistema que leia o custo de fábrica de um carro e escreva o custo
             ao consumidor."
-        </li>
-        <ul>
-        </ul>
+        </li>     
+    </ul>
 </div>
+<hr>
 <div>
     <h3 id="lista02">Lista 02 - Exercícios de programação: laços condicionais</h3>
     <ul>
@@ -106,7 +106,93 @@
                 04</a> - "Faça um sistema que leia um número inteiro. Caso ele seja par, o programa deve imprimir sua
             raiz quadrada. Caso ele seja ímpar, o programa deve imprimir o número elevado ao quadrado."
         </li>
-        <ul>
+    </ul>
 </div>
-			
-<div>[EM CONSTRUÇÃO]</div>
+<hr>			
+<div>
+    <h3 id="lista03">Lista 03 - Exercícios de programação: laços de repetição</h3>
+    <ul>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/03-Java_LacosRepeticao/src/lista03_LacosRepeticao/Ex01.java">Exercício 01</a> - "Informar todos os números de 1000 a 1999 que quando divididos por 11 obtemos resto = 5"
+        </li>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/03-Java_LacosRepeticao/src/lista03_LacosRepeticao/Ex02. java">Exercício 02</a> - "Ler 10 números e imprimir quantos são pares e quantos são ímpares, utilizando o laço FOR."
+        </li>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/03-Java_LacosRepeticao/src/lista03_LacosRepeticao/Ex03.java">Exercício 03</a> - "Solicitar a idade de várias pessoas e imprimir o total de pessoas com menos de 21 anos e o total de pessoas com mais de 50 anos. O programa termina quando idade digitada for = -99."
+        </li>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/03-Java_LacosRepeticao/src/lista03_LacosRepeticao/Ex04.java">Exercício 04</a> - "Uma empresa desenvolveu uma pesquisa para saber as características psicológicas dos indivíduos de uma região. Para tanto, a cada uma das pessoas era perguntado:  idade, sexo (1-feminino / 2-masculino / 3-Outros), e as opções (1, se a pessoa era calma; 2, se a pessoa era nervosa e 3, se a pessoa era agressiva). Pede-se para elaborar um sistema que permita ler os dados de 150 pessoas, calcule e mostre:
+                - o número de pessoas calmas; <br>
+                - o número de mulheres nervosas; <br>
+                - o número de homens agressivos; <br>
+                - o número de outros calmos; <br>
+                - o número de pessoas nervosas com mais de 40 anos; <br>
+                - o número de pessoas calmas com menos de 18 anos. <br>
+                Utilize o laço WHILE."
+        </li>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/03-Java_LacosRepeticao/src/lista03_LacosRepeticao/Ex05.java">Exercício 05</a> - "Crie um programa que leia um número do teclado até que encontre um número igual a zero. No final, mostre a soma dos números digitados. Utilize o laço DO...WHILE."
+        </li>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/03-Java_LacosRepeticao/src/lista03_LacosRepeticao/Ex06.java">Exercício 06</a> - "Escrever um programa que receba vários números inteiros no teclado. E no final imprimir a média dos números múltiplos de 3. Para sair digitar 0 (zero). Utilize o laço DO...WHILE."
+        </li>
+    </ul>
+</div>
+<hr>			
+<div>
+    <h3 id="lista04">Lista 04 - Vetores e Matrizes</h3>
+    <ul>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/04-Java_VetoresMatrizes/src/lista04Matrizes/Ex01.java">Exercício 01</a> - "Faça um programa que possua um vetor denominado A que armazene 6 números inteiros. 
+                *  O programa deve executar os seguintes passos:<br> 
+               (a) Atribua os seguintes valores a esse vetor: 1, 0, 5, -2, -5, 7. <br>
+               (b) Armazene em uma variável inteira (simples) a soma entre os valores das posições A[0], A[1] e A[5] do vetor e mostre na tela esta soma. <br>
+               (c) Modifique o vetor na posição 4, atribuindo a esta posição o valor 100. <br>
+               (d) Mostre na tela cada valor do vetor A, um em cada linha."
+        </li>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/04-Java_VetoresMatrizes/src/lista04Matrizes/Ex02.java">Exercício 02</a> - "Faça um programa que receba 6 números inteiros e mostre: 
+                - Os números pares digitados; <br>  
+                - A soma dos números pares digitados; <br>
+                - Os números ímpares digitados; <br>
+                - A quantidade de números ímpares digitados."
+        </li>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/04-Java_VetoresMatrizes/src/lista04Matrizes/Ex03.java">Exercício 03</a> - " Leia uma matriz 3 x 3, conte e escreva quantos valores maiores que 10 ela possui."
+        </li>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/blob/main/04-Java_VetoresMatrizes/src/lista04Matrizes/Ex04.java">Exercício 04</a> - "Faça um programa que leia duas matrizes 2 x 2 com valores reais. Ofereça ao usuário um menu de opções:
+                (1) somar as duas matrizes <br>
+                (2) subtrair a primeira matriz da segunda <br>
+                (3) adicionar uma constante as duas matrizes <br>
+                (4) imprimir as matrizes <br>
+                Nas duas primeiras opções uma terceira matriz 2 x 2 deve ser criada. Na terceira opção o valor da constante deve ser lido e o resultado da adição da constante deve ser armazenado na própria matriz."
+        </li>
+    </ul>
+</div>
+<hr>			
+<div>
+    <h3 id="lista05">Lista 05 - Introdução a Programação Orientada a Objetos em Java</h3>
+    <p>Dentre 7 exercícios com a mesma estrutura, a instrução era escolher 2 e realizá-los.</p>
+    <ul>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/tree/main/05-Java_IntroAPOO/src/ex02Aviao">Exercício 02</a> - "Crie uma classe avião e apresente os atributos e métodos referentes esta classe, em seguida crie um objeto avião, defina as instancias deste objeto e apresente as informações deste objeto no console."
+        </li>
+        <li>
+            <a
+                href="https://github.com/anaolisilva/Bloco01-Generation/tree/main/05-Java_IntroAPOO/src/ex07ContaBancaria">Exercício 07</a> - "Crie uma classe paciente e apresente os atributos e métodos referentes  a esta classe, em seguida crie um objeto paciente, defina as instâncias deste objeto e apresente as informações deste objeto no console."
+        </li>
+    </ul>
+</div>
